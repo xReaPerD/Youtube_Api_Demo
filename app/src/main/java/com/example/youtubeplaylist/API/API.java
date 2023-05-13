@@ -14,6 +14,6 @@ public interface API {
                                       @Query("part") String part,
                                       @Query("order") String order,
                                       @Query("maxResults") String maxResult,
-                                      @Query("type") String type); //here https://www.youtube.com/watch?v=hN7Gq0RGRdY&list=PLoCB1drFDolMPVZ2y0Eyefvb7b2_1Hxrj&index=4 3:18
+                                      @Query("type") String type);
 
 }
