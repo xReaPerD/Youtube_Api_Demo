@@ -12,7 +12,7 @@ android {
         targetSdk 33
         versionCode 1
         versionName "1.0"
-        buildConfigField("String","YOUTUBE_API_KEY","AIzaSyAZ_ohITntw-5TQko1VbRiY5zp_lkkAUro")
+
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
